@@ -5,4 +5,4 @@ while len(passwordHidden)<10:
     print("Password must be 10 characters or longer")
     passwordHidden = input("Input Password: ")
 
-print('*'*len(passwordHidden))
+print('*'*len(passwordHidden) )
